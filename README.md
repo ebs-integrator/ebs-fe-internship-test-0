@@ -1,5 +1,12 @@
 # EBS Movies
 
+## Technologies
+1. HTML
+2. SCSS
+3. Javascript
+4. React (ask your mentor first)
+5. React-Router (ask your mentor first)
+
 ## Todo:
 1. [Create page with list of movies](https://prnt.sc/tabl3d) (inspirated on letterboxd.com)
 2. [Create page with profile of movie](https://prnt.sc/tabm1o) (inspirated on letterboxd.com/film/da-5-bloods)

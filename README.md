@@ -4,9 +4,9 @@
 1. HTML
 2. SCSS
 3. Javascript
-4. React (ask your mentor first)
-5. React-Router (ask your mentor first)
-6. JQuery (ask your mentro first)
+4. React (ask your mentor firstly)
+5. React-Router (ask your mentor firstly)
+6. JQuery (ask your mentor firstly)
 7. [REM (Relative Lengths)](https://www.sitepoint.com/understanding-and-using-rem-units-in-css/) (ask your mentro first)
 
 ## Todo:

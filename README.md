@@ -2,12 +2,12 @@
 
 ## Technologies
 1. HTML
-2. SCSS
+2. SASS
 3. Javascript
 4. React (ask your mentor firstly)
 5. React-Router (ask your mentor firstly)
 6. JQuery (ask your mentor firstly)
-7. [REM (Relative Lengths)](https://www.sitepoint.com/understanding-and-using-rem-units-in-css/) (ask your mentro first)
+7. [REM (Relative Lengths)](https://www.sitepoint.com/understanding-and-using-rem-units-in-css/) (ask your mentro firstly)
 
 ## Todo:
 1. [Create page with list of movies](https://prnt.sc/tabl3d) (inspirated on letterboxd.com)
